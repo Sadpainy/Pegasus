@@ -1,5 +1,8 @@
 # Pegasus
 
+![Build](https://img.shields.io/badge/Build-unstable-yellow?style=plastic&labelColor=555555)
+![Tests](https://img.shields.io/badge/Tests-passing-brightgreen?style=plastic&labelColor=555555)
+
 # A Technical Research Artifact
 
 Licensed under the GNU Affero General Public License version 3.0, with additional terms as set forth in LICENSE.Pegasus.
